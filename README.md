@@ -3,7 +3,7 @@
 
 ## Memory Friendly Calculation
 
-https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/c2033efe-bc21-48be-b585-aceecccbc20f
+![WindowsTerminal_mbBkaOwniY](https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/a3a89533-0c8c-44d5-95ce-494e26cede88)
 
 ```C++
 int SlowFib(int n)
@@ -24,7 +24,7 @@ void MemoryFriendlyCalculation()
 
 ## Fast Calculation
 
-https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/f117606f-74e9-4223-8023-2f8de51faf83
+![WindowsTerminal_sfbNbprULm](https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/02258636-d269-4d2c-b15f-f4ff0f8b5f6f)
 
 ```C++
 long FastFib(int n)
