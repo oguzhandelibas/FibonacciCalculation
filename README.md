@@ -1,9 +1,9 @@
 # Performance-vs-Space
  Performance or Space. Which is the best option for your optimization. In this project I created a two path using Fibonacci Calculation for this situation
 
-## Memory Friendly Calculation
+## Memory Friendly Calculation - 4802ms
 
-![WindowsTerminal_mbBkaOwniY](https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/a3a89533-0c8c-44d5-95ce-494e26cede88)
+![WindowsTerminal_pngRmw8pXh](https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/9731a411-1b5d-42b5-829e-aee93b64b904)
 
 ```C++
 int SlowFib(int n)
@@ -22,7 +22,7 @@ void MemoryFriendlyCalculation()
 }
 ```
 
-## Fast Calculation
+## Fast Calculation - 8ms
 
 ![WindowsTerminal_sfbNbprULm](https://github.com/oguzhandelibas/Performance-vs-Space/assets/64430254/02258636-d269-4d2c-b15f-f4ff0f8b5f6f)
 
